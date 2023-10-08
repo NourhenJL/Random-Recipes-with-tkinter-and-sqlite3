@@ -1,0 +1,2 @@
+"Random Recipe" is a Python application built with SQLite3 and Tkinter, a Python library for creating graphical user interfaces. Tkinter provides a simple and easy-to-use way to design desktop applications with buttons, labels, and entry widgets, making it suitable for applications like a recipe picker. 
+It's designed to make the process of discovering and enjoying new recipes a delightful and user-friendly experience.
